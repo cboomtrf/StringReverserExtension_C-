@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OutSystems.NssStringReverser</name>
+    </assembly>
+    <members>
+        <member name="M:OutSystems.NssStringReverser.IssStringReverser.MssReverse(System.String,System.String@)">
+            <summary>
+            Reverses a string input
+            </summary>
+            <param name="ssTextIn"></param>
+            <param name="ssTextOut"></param>
+        </member>
+        <member name="M:OutSystems.NssStringReverser.CssStringReverser.MssReverse(System.String,System.String@)">
+            <summary>
+            Reverses a string input
+            </summary>
+            <param name="ssTextIn"></param>
+            <param name="ssTextOut"></param>
+        </member>
+    </members>
+</doc>
